@@ -7,6 +7,8 @@ I am a Student and `Programmer`  looking to solve real world problems. I have an
  
 **Welcome to my Github profile , you can checkout my project and don't forget to give me a star**
 
+**Hacktoberfest Completeion batch**
+[![An image of @sneha17github's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sneha17github)](https://holopin.io/@sneha17github)
 
 <!--
 * 🔭 I am currently in final yr of my College.
